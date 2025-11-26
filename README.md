@@ -86,5 +86,5 @@ This project is licensed under the **GNU General Public License v3.0** (GPLv3) t
 
 ## Maintainer
 
-**Imre Kuczmann**
+**[Imre Kuczmann](https://www.linkedin.com/in/imre-kuczmann-56580418a/)**
 *Machine Learning Engineer | GovTech Researcher*
